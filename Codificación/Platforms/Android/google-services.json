@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "339447477684",
+    "firebase_url": "https://crudfirebase-5f35c-default-rtdb.firebaseio.com",
+    "project_id": "crudfirebase-5f35c",
+    "storage_bucket": "crudfirebase-5f35c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339447477684:android:114aa7dbea6f8d3f0f2ee1",
+        "android_client_info": {
+          "package_name": "mauifirebase.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaAUZEd8Op8uNUsGSCMXha_qLU1HimiWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
